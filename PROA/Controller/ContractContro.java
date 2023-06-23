@@ -54,7 +54,8 @@ public class ContractContro {
     file.close();
     return ct;
 }
-
+// cuong dep trai nheĂĂĂĂ
+    
 
     public void WriteCN(Contract contract) throws IOException {
         FileWriter fw = new FileWriter("D://WorkSpace//BackEnd//PROA//Model//Contract.txt", true); // Chế độ ghi tiếp
